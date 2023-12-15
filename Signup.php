@@ -83,6 +83,8 @@
         <p>Already have an account? <a href="login.php">Login</a></p>
     </div>
 
+    //php code for the sign up procces 
+     
     <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["signup"])) {
     // Process sign-up data
