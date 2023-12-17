@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Genomic Database</title>
+    <title>GenoVault</title>
     <style>
         body {
         background-image: url('https://th.bing.com/th/id/OIP.c1szrXUZ2RzfTCspg-EcOwHaHa?w=147&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7');
