@@ -8,7 +8,7 @@ session_start();
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // if it is set to post .. start using the post method
     // the su-username is the name written in the HTML file
-    // the su-password is the name written in the HTML file
+    // the su-password is the name password in the HTML file
     $new_username = $_POST["su-username"];
     $new_password = $_POST["su-password"];
 
